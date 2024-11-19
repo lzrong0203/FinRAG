@@ -1,0 +1,2 @@
+# FinRAG
+AI CUP 2024 RAG
